@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\61ahm\\source\\repos\\Hafta2_Odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5C8C265-DD68-46E3-A6D4-13BFD7304CE4}|Hafta2_Odev\\Hafta2_Odev.csproj|c:\\users\\61ahm\\source\\repos\\hafta2_odev\\hafta2_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5C8C265-DD68-46E3-A6D4-13BFD7304CE4}|Hafta2_Odev\\Hafta2_Odev.csproj|solutionrelative:hafta2_odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\61ahm\\source\\repos\\Hafta2_Odev\\Hafta2_Odev\\Program.cs",
+              "RelativeDocumentMoniker": "Hafta2_Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\61ahm\\source\\repos\\Hafta2_Odev\\Hafta2_Odev\\Program.cs",
+              "RelativeToolTip": "Hafta2_Odev\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T23:52:52.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

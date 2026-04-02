@@ -1,0 +1,7 @@
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.exe.config
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.exe
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\bin\Debug\Hafta2_Odev.pdb
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.csproj.AssemblyReference.cache
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.csproj.CoreCompileInputs.cache
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.exe
+C:\Users\61ahm\source\repos\Hafta2_Odev\Hafta2_Odev\obj\Debug\Hafta2_Odev.pdb
